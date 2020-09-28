@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BinarySearch/250countUnivalue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/333LargestBst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/94 Binary Tree Inorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/InorderAndPostorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/No102.Binary_Tree_Level_Order_Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/No103zigzigBinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/No105ConstructBinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/No314_verticalTraverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/No366Find_TreeLeaves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/No426.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/No57InsertIntervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic/No256PaintHouse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/No56MergeIntervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/No56MergeIntervals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic/maxSubset.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic/maxSubset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +37,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dynamic" />
       <recent name="$PROJECT_DIR$/array" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -68,14 +59,30 @@
       <workItem from="1601261443551" duration="35000" />
       <workItem from="1601261862875" duration="1526000" />
       <workItem from="1601264180133" duration="6000" />
-      <workItem from="1601265070082" duration="1402000" />
+      <workItem from="1601265070082" duration="3034000" />
     </task>
+    <task id="LOCAL-00001" summary="3 questions">
+      <created>1601273126622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601273126622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3 questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 questions" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="444" y="103" key="CommitChangelistDialog2" timestamp="1601273126429">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601273126429" />
     <state x="364" y="158" key="SettingsEditor" timestamp="1601266712239">
       <screen x="0" y="23" width="1680" height="973" />
     </state>

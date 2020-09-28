@@ -9,6 +9,7 @@ def maxSubsetSumNoAdjacent(array):
         maxSum[0] = array[0]
         maxSum[1] = array[0] if array[0] > array[1] else array[1]
         for i in range(2,len(array)):
+            # 反正就不可能包含array[i]
             maxSum[i] = maxSum[i-1] if maxSum[i-1] > maxSum[i-2]+array[i] else maxSum[i-2]+array[i]
         return maxSum[len(array)-1]
 
