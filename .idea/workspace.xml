@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="" />
+    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BinarySearch/250countUnivalue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/333LargestBst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/94 Binary Tree Inorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/InorderAndPostorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/No102.Binary_Tree_Level_Order_Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/No103zigzigBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/No105ConstructBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/No314_verticalTraverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/No366Find_TreeLeaves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/No426.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/No57InsertIntervals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/No56MergeIntervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/No56MergeIntervals.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="f8e78065-318d-48b5-9b6b-6bb8e1a4baca" />
   <component name="ProjectId" id="1i7Z8XPCwozNTfug9rMq3u12FVz" />
   <component name="ProjectViewState">
@@ -23,13 +40,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BinarySearch" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/array" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BinarySearch" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/strings" />
       <recent name="$PROJECT_DIR$/array" />
@@ -45,11 +66,19 @@
       <updated>1601260431703</updated>
       <workItem from="1601260432760" duration="999000" />
       <workItem from="1601261443551" duration="35000" />
-      <workItem from="1601261862875" duration="756000" />
+      <workItem from="1601261862875" duration="1526000" />
+      <workItem from="1601264180133" duration="6000" />
+      <workItem from="1601265070082" duration="1402000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="364" y="158" key="SettingsEditor" timestamp="1601266712239">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="364" y="158" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1601266712239" />
   </component>
 </project>
