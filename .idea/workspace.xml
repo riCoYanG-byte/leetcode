@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linkList/linkListCons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkList/lruCache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkList/mergeLinklist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkList/removeEndKth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkList/reverseLinklist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkList/shiftlinkList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/Permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/fib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/interweave.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/lowestCommonManager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/powerSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/productSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary tree/No113 Path Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkList/_trial_temp/test.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +65,8 @@
       <workItem from="1601368517392" duration="7000" />
       <workItem from="1601370456698" duration="10000" />
       <workItem from="1601370593938" duration="231000" />
+      <workItem from="1601388104185" duration="85000" />
+      <workItem from="1601433939352" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -106,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601352202006</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="loading">
+      <created>1601388121199</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601388121199</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,21 +114,24 @@
     <MESSAGE value="dynamic questions" />
     <MESSAGE value="3 questions for morning" />
     <MESSAGE value="readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme.md" />
+    <MESSAGE value="loading" />
+    <option name="LAST_COMMIT_MESSAGE" value="loading" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="103" key="CommitChangelistDialog2" timestamp="1601352201895">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1601388120983">
+      <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
+    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1601388120983" />
     <state x="300" y="280" key="SettingsEditor" timestamp="1601365941014">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="300" y="280" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601365941014" />
     <state x="364" y="158" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1601266712239" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1601359814870">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601388126260">
+      <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1601388126260" />
   </component>
 </project>
