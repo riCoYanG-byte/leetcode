@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graph/course schedule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph/No277 find the cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/No277 find the cycle.py" afterDir="false" />
-    </list>
+    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +70,7 @@
       <workItem from="1601715973753" duration="664000" />
       <workItem from="1601725881769" duration="248000" />
       <workItem from="1601731548496" duration="380000" />
-      <workItem from="1601736120836" duration="1209000" />
+      <workItem from="1601736120836" duration="1409000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -153,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601726047260</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="course schedule.py">
+      <created>1601739130910</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601739130910</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,23 +173,28 @@
     <MESSAGE value="No243 easy" />
     <MESSAGE value="easy" />
     <MESSAGE value="brute  force" />
-    <option name="LAST_COMMIT_MESSAGE" value="brute  force" />
+    <MESSAGE value="course schedule.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="course schedule.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1601726047084">
+    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1601739130687">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
-    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1601726047084" />
-    <state x="330" y="213" key="SettingsEditor" timestamp="1601731605101">
+    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1601739130687" />
+    <state x="423" y="124" key="SettingsEditor" timestamp="1601739214832">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="300" y="280" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601365941014" />
-    <state x="330" y="213" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1601731605101" />
-    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601726051902">
+    <state x="423" y="124" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1601739214832" />
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601739157535">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
-    <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1601726051902" />
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1601739157535" />
+    <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601739205057">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1680.973@0.23.1680.973" timestamp="1601739205057" />
   </component>
 </project>
