@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="" />
+    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/graph/No277 find the cycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/No39 cmbinationSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/No39 cmbinationSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telephone.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashmap/telephone.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,22 +31,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/array" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/linkList" />
-      <recent name="$PROJECT_DIR$/BinarySearch" />
-      <recent name="$PROJECT_DIR$/strings" />
-      <recent name="$PROJECT_DIR$/array" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dynamic" />
       <recent name="$PROJECT_DIR$/array" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/array" />
+      <recent name="$PROJECT_DIR$/Hashmap" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/linkList" />
+      <recent name="$PROJECT_DIR$/BinarySearch" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +71,8 @@
       <workItem from="1601433939352" duration="2973000" />
       <workItem from="1601474320562" duration="15000" />
       <workItem from="1601474351973" duration="205000" />
-      <workItem from="1601649529920" duration="484000" />
+      <workItem from="1601649529920" duration="1898000" />
+      <workItem from="1601715973753" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -131,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601649604592</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="easy">
+      <created>1601650118853</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601650118853</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,23 +159,24 @@
     <MESSAGE value="path Sum ii" />
     <MESSAGE value="pathSum easy" />
     <MESSAGE value="No243 easy" />
-    <option name="LAST_COMMIT_MESSAGE" value="No243 easy" />
+    <MESSAGE value="easy" />
+    <option name="LAST_COMMIT_MESSAGE" value="easy" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1601649604362">
+    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1601650118732">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
-    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1601649604362" />
+    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1601650118732" />
     <state x="300" y="280" key="SettingsEditor" timestamp="1601365941014">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="300" y="280" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601365941014" />
     <state x="364" y="158" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1601266712239" />
-    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601649612212">
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601650122863">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
-    <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1601649612212" />
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1601650122863" />
   </component>
 </project>
