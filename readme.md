@@ -14,3 +14,5 @@ _University:JiaoTong University_
 _20 YEARS OLD_
 
 _Tencent internship_
+
+_willing go the american to follow the master degree and welcome to being friends with me_

@@ -71,6 +71,7 @@
       <workItem from="1601725881769" duration="248000" />
       <workItem from="1601731548496" duration="380000" />
       <workItem from="1601736120836" duration="1409000" />
+      <workItem from="1601739268339" duration="100000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -156,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601739130910</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="readme.md">
+      <created>1601739292807</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601739292807</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +174,6 @@
     <MESSAGE value="3 questions" />
     <MESSAGE value="dynamic questions" />
     <MESSAGE value="3 questions for morning" />
-    <MESSAGE value="readme.md" />
     <MESSAGE value="loading" />
     <MESSAGE value="path Sum ii" />
     <MESSAGE value="pathSum easy" />
@@ -174,24 +181,25 @@
     <MESSAGE value="easy" />
     <MESSAGE value="brute  force" />
     <MESSAGE value="course schedule.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="course schedule.py" />
+    <MESSAGE value="readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1601739130687">
+    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1601739292643">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
-    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1601739130687" />
+    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1601739292643" />
     <state x="423" y="124" key="SettingsEditor" timestamp="1601739214832">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="300" y="280" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601365941014" />
     <state x="423" y="124" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1601739214832" />
-    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601739157535">
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601739296322">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
-    <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1601739157535" />
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1601739296322" />
     <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601739205057">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
