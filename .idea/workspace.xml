@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graph/No233.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/No323.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/No233.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph/No233.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <workItem from="1601736120836" duration="1409000" />
       <workItem from="1601739268339" duration="100000" />
       <workItem from="1601794042858" duration="895000" />
-      <workItem from="1601896148728" duration="956000" />
+      <workItem from="1601896148728" duration="2780000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601794191853</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="233">
+      <created>1601897388649</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601897388649</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,14 +202,15 @@
     <MESSAGE value="brute  force" />
     <MESSAGE value="course schedule.py" />
     <MESSAGE value="readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme.md" />
+    <MESSAGE value="233" />
+    <option name="LAST_COMMIT_MESSAGE" value="233" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1601794191684">
+    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1601897388478">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
-    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1601794191684" />
+    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1601897388478" />
     <state x="423" y="124" key="SettingsEditor" timestamp="1601739214832">
       <screen x="0" y="23" width="1680" height="973" />
     </state>

@@ -15,6 +15,9 @@ import heapq
 
 
 class Solution(object):
+    def __init__(self):
+        self.stack = []
+
     def findItinerary(self, tickets):
         """
         :type tickets: List[List[str]]
@@ -30,7 +33,6 @@ class Solution(object):
         # use heap to sort
         for fr in vec:
             heapq.heapify(vec[fr])
-        self.stack = []
         self.dfs(vec, 'JFK')
         return self.stack[::-1]
 
