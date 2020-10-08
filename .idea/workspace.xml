@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linkList/partitionList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary tree/deleteNode and return forest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,10 @@
       <workItem from="1601794042858" duration="895000" />
       <workItem from="1601896148728" duration="3684000" />
       <workItem from="1601981197139" duration="1222000" />
-      <workItem from="1602067891293" duration="1504000" />
+      <workItem from="1602067891293" duration="1863000" />
+      <workItem from="1602073571196" duration="102000" />
+      <workItem from="1602073713775" duration="125000" />
+      <workItem from="1602141608187" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -213,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602068756547</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="partitionList.py">
+      <created>1602069654541</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1602069654541</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,24 +246,26 @@
     <MESSAGE value="No739.py" />
     <MESSAGE value="No496.py" />
     <MESSAGE value="Insert into val" />
-    <option name="LAST_COMMIT_MESSAGE" value="Insert into val" />
+    <MESSAGE value="partitionList.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="partitionList.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1602068756389">
+    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1602069654427">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
-    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602068756389" />
-    <state x="423" y="124" key="SettingsEditor" timestamp="1602067964092">
-      <screen x="0" y="23" width="1680" height="973" />
+    <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
+    <state x="2163" y="127" key="SettingsEditor" timestamp="1602073592112">
+      <screen x="1680" y="23" width="1920" height="1003" />
     </state>
     <state x="300" y="280" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601365941014" />
+    <state x="2163" y="127" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1003@1680.23.1920.1003" timestamp="1602073592112" />
     <state x="423" y="124" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1602067964092" />
-    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601984211317">
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602069662122">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
-    <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1601984211317" />
+    <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1602069662122" />
     <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601739205057">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
