@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binary tree/deleteNode and return forest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary tree/222 count Complete Tree Nodes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <workItem from="1602067891293" duration="1863000" />
       <workItem from="1602073571196" duration="102000" />
       <workItem from="1602073713775" duration="125000" />
-      <workItem from="1602141608187" duration="575000" />
+      <workItem from="1602141608187" duration="1403000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -223,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602069654541</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="del note for forest">
+      <created>1602143134633</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1602143134633</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,14 +253,16 @@
     <MESSAGE value="No496.py" />
     <MESSAGE value="Insert into val" />
     <MESSAGE value="partitionList.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="partitionList.py" />
+    <MESSAGE value="del note for forest" />
+    <option name="LAST_COMMIT_MESSAGE" value="del note for forest" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="118" key="CommitChangelistDialog2" timestamp="1602069654427">
-      <screen x="0" y="23" width="1680" height="973" />
+    <state x="2427" y="121" key="CommitChangelistDialog2" timestamp="1602143134487">
+      <screen x="1920" y="23" width="1920" height="1003" />
     </state>
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
+    <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602143134487" />
     <state x="2163" y="127" key="SettingsEditor" timestamp="1602073592112">
       <screen x="1680" y="23" width="1920" height="1003" />
     </state>
