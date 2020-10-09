@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binary tree/Binary Tree longest consecutive sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary tree/split sub tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,8 @@
       <workItem from="1602067891293" duration="1863000" />
       <workItem from="1602073571196" duration="102000" />
       <workItem from="1602073713775" duration="125000" />
-      <workItem from="1602141608187" duration="2817000" />
+      <workItem from="1602141608187" duration="3044000" />
+      <workItem from="1602212196665" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -237,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602144576311</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="longest consecutive way">
+      <created>1602146209295</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602146209295</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,26 +271,28 @@
     <MESSAGE value="partitionList.py" />
     <MESSAGE value="del note for forest" />
     <MESSAGE value="count complete nodes" />
-    <option name="LAST_COMMIT_MESSAGE" value="count complete nodes" />
+    <MESSAGE value="longest consecutive way" />
+    <option name="LAST_COMMIT_MESSAGE" value="longest consecutive way" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2427" y="121" key="CommitChangelistDialog2" timestamp="1602144576211">
+    <state x="2427" y="121" key="CommitChangelistDialog2" timestamp="1602146209193">
       <screen x="1920" y="23" width="1920" height="1003" />
     </state>
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
-    <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602144576211" />
+    <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146209193" />
     <state x="2163" y="127" key="SettingsEditor" timestamp="1602073592112">
       <screen x="1680" y="23" width="1920" height="1003" />
     </state>
     <state x="300" y="280" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601365941014" />
     <state x="2163" y="127" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1003@1680.23.1920.1003" timestamp="1602073592112" />
     <state x="423" y="124" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1602067964092" />
-    <state x="440" y="269" key="Vcs.Push.Dialog.v2" timestamp="1602069662122">
-      <screen x="0" y="23" width="1680" height="973" />
+    <state x="2423" y="277" key="Vcs.Push.Dialog.v2" timestamp="1602146213154">
+      <screen x="1920" y="23" width="1920" height="1003" />
     </state>
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
     <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1602069662122" />
+    <state x="2423" y="277" key="Vcs.Push.Dialog.v2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146213154" />
     <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601739205057">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
