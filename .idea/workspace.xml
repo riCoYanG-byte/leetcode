@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/No380 insert and delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary tree/No1145 Coloring game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/readNcharacter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +84,9 @@
       <workItem from="1602073713775" duration="125000" />
       <workItem from="1602141608187" duration="3044000" />
       <workItem from="1602212196665" duration="1441000" />
-      <workItem from="1602816177366" duration="1127000" />
+      <workItem from="1602816177366" duration="2592000" />
+      <workItem from="1603630616454" duration="18000" />
+      <workItem from="1603975396590" duration="2054000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -253,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602213130395</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="random choice">
+      <created>1602817754585</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602817754585</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,25 +291,30 @@
     <MESSAGE value="count complete nodes" />
     <MESSAGE value="longest consecutive way" />
     <MESSAGE value="split sub tree.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="split sub tree.py" />
+    <MESSAGE value="random choice" />
+    <option name="LAST_COMMIT_MESSAGE" value="random choice" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="430" y="123" key="CommitChangelistDialog2" timestamp="1602213130157">
-      <screen x="0" y="23" width="1629" height="1027" />
+    <state x="2187" y="105" key="CommitChangelistDialog2" timestamp="1602817754434">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
+    <state x="2187" y="105" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602817754434" />
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1629.1027@0.23.1629.1027" timestamp="1602213130157" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
     <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146209193" />
-    <state x="2163" y="127" key="SettingsEditor" timestamp="1602073592112">
-      <screen x="1680" y="23" width="1920" height="1003" />
+    <state x="2403" y="112" key="SettingsEditor" timestamp="1603975406348">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2163" y="112" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602829914415" />
     <state x="300" y="280" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601365941014" />
     <state x="2163" y="127" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1003@1680.23.1920.1003" timestamp="1602073592112" />
     <state x="423" y="124" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1602067964092" />
-    <state x="2423" y="277" key="Vcs.Push.Dialog.v2" timestamp="1602146213154">
-      <screen x="1920" y="23" width="1920" height="1003" />
+    <state x="2403" y="112" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1603975406348" />
+    <state x="2183" y="273" key="Vcs.Push.Dialog.v2" timestamp="1602819359853">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
+    <state x="2183" y="273" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602819359853" />
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
     <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1602069662122" />
     <state x="2423" y="277" key="Vcs.Push.Dialog.v2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146213154" />
