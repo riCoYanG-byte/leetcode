@@ -2,6 +2,18 @@
 
 # 模拟内存buffer读取，先从file读进buf4，再从buf4读进buf中
 #Solution1
+def readBufFromBuf4(args):
+    pass
+
+
+def read4(buf4):
+    pass
+
+
+def readBufFromBuf4(args):
+    pass
+
+
 class Solution:
     def read(self, buf, n):
         """
@@ -14,7 +26,7 @@ class Solution:
         buf4 = ['']*4
         while copiedFrom < n and readBufFromBuf4 == 4 :
             readBufFromBuf4 = read4(buf4)
-            for in range(1,readBufFromBuf4):
+            for i in range(1,readBufFromBuf4):
                 if copiedFrom == n:
                     return copiedFrom
                 buf[copiedFrom] = buf4[i]
