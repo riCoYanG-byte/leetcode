@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BinarySearch/leftmost-column-with-at-least-a-one.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/readNcharacter.py" beforeDir="false" afterPath="$PROJECT_DIR$/design/readNcharacter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +86,7 @@
       <workItem from="1603630616454" duration="18000" />
       <workItem from="1603975396590" duration="3307000" />
       <workItem from="1604066037838" duration="1149000" />
+      <workItem from="1604067260999" duration="363000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -271,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603978055254</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="leftmost-column-with-at-least-a-one.py">
+      <created>1604067285031</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1604067285031</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,35 +307,39 @@
     <MESSAGE value="split sub tree.py" />
     <MESSAGE value="random choice" />
     <MESSAGE value="readNcharacter.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="readNcharacter.py" />
+    <MESSAGE value="leftmost-column-with-at-least-a-one.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="leftmost-column-with-at-least-a-one.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604066923612">
       <screen x="0" y="23" width="1626" height="1027" />
     </state>
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1626.1027@0.23.1626.1027" timestamp="1604066923612" />
-    <state x="2414" y="126" key="CommitChangelistDialog2" timestamp="1603978055088">
-      <screen x="1920" y="23" width="1869" height="1057" />
+    <state x="430" y="123" key="CommitChangelistDialog2" timestamp="1604067284707">
+      <screen x="0" y="23" width="1626" height="1027" />
     </state>
     <state x="2187" y="105" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602817754434" />
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
+    <state x="430" y="123" key="CommitChangelistDialog2/0.23.1626.1027@0.23.1626.1027" timestamp="1604067284707" />
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1629.1027@0.23.1629.1027" timestamp="1602213130157" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
     <state x="2414" y="126" key="CommitChangelistDialog2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978055088" />
     <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146209193" />
-    <state x="2403" y="112" key="SettingsEditor" timestamp="1603975406348">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="409" y="130" key="SettingsEditor" timestamp="1604067332012">
+      <screen x="0" y="23" width="1626" height="1027" />
     </state>
     <state x="2163" y="112" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602829914415" />
     <state x="300" y="280" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601365941014" />
+    <state x="409" y="130" key="SettingsEditor/0.23.1626.1027@0.23.1626.1027" timestamp="1604067332012" />
     <state x="2163" y="127" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1003@1680.23.1920.1003" timestamp="1602073592112" />
     <state x="423" y="124" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1602067964092" />
     <state x="2403" y="112" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1603975406348" />
-    <state x="2410" y="290" key="Vcs.Push.Dialog.v2" timestamp="1603978057512">
-      <screen x="1920" y="23" width="1869" height="1057" />
+    <state x="426" y="282" key="Vcs.Push.Dialog.v2" timestamp="1604067286794">
+      <screen x="0" y="23" width="1626" height="1027" />
     </state>
     <state x="2183" y="273" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602819359853" />
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
+    <state x="426" y="282" key="Vcs.Push.Dialog.v2/0.23.1626.1027@0.23.1626.1027" timestamp="1604067286794" />
     <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1602069662122" />
     <state x="2410" y="290" key="Vcs.Push.Dialog.v2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978057512" />
     <state x="2423" y="277" key="Vcs.Push.Dialog.v2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146213154" />
