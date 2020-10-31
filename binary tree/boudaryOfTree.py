@@ -59,4 +59,4 @@ class Solution(object):
         return res
 
 
-
+# 最简单的方法是前序遍历，然后判断是不是叶子节点
