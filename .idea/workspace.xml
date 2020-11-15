@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/arrayPractice/No.485.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tries/1065. Index Pairs of a String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/621.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy/621.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/arrayPractice/No.977.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +114,7 @@
       <workItem from="1605267198483" duration="28000" />
       <workItem from="1605267235871" duration="144000" />
       <workItem from="1605276832261" duration="1705000" />
-      <workItem from="1605444809290" duration="356000" />
+      <workItem from="1605444809290" duration="758000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -371,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604823947546</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="easy">
+      <created>1605445331231</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1605445331231</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,7 +394,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="easy" />
     <MESSAGE value="brute  force" />
     <MESSAGE value="course schedule.py" />
     <MESSAGE value="readme.md" />
@@ -415,7 +418,8 @@
     <MESSAGE value="No.978.py" />
     <MESSAGE value="No738.py" />
     <MESSAGE value="really difficult" />
-    <option name="LAST_COMMIT_MESSAGE" value="really difficult" />
+    <MESSAGE value="easy" />
+    <option name="LAST_COMMIT_MESSAGE" value="easy" />
   </component>
   <component name="WindowStateProjectService">
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604066923612">
