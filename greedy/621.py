@@ -24,3 +24,8 @@ class Solution:
         idle_time = max(0, idle_time)
 
         return idle_time + len(tasks)
+
+
+
+
+    

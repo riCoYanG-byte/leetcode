@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="" />
+    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/array/arrayPractice/No.485.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tries/1065. Index Pairs of a String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy/621.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy/621.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/array" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -107,7 +112,12 @@
       <workItem from="1604232315883" duration="1275000" />
       <workItem from="1604731299542" duration="341000" />
       <workItem from="1604731889904" duration="2700000" />
-      <workItem from="1604819351775" duration="631000" />
+      <workItem from="1604819351775" duration="1081000" />
+      <workItem from="1605260766822" duration="7000" />
+      <workItem from="1605267198483" duration="28000" />
+      <workItem from="1605267235871" duration="144000" />
+      <workItem from="1605276832261" duration="1705000" />
+      <workItem from="1605444809290" duration="356000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -354,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604820451643</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="really difficult">
+      <created>1604823947546</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1604823947546</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,7 +390,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="No243 easy" />
     <MESSAGE value="easy" />
     <MESSAGE value="brute  force" />
     <MESSAGE value="course schedule.py" />
@@ -398,14 +414,15 @@
     <MESSAGE value="No.159.py" />
     <MESSAGE value="No.978.py" />
     <MESSAGE value="No738.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="No738.py" />
+    <MESSAGE value="really difficult" />
+    <option name="LAST_COMMIT_MESSAGE" value="really difficult" />
   </component>
   <component name="WindowStateProjectService">
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604066923612">
       <screen x="0" y="23" width="1626" height="1027" />
     </state>
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1626.1027@0.23.1626.1027" timestamp="1604066923612" />
-    <state x="2413" y="126" key="CommitChangelistDialog2" timestamp="1604820451495">
+    <state x="2413" y="126" key="CommitChangelistDialog2" timestamp="1604823947439">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2187" y="105" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602817754434" />
@@ -413,10 +430,10 @@
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1626.1027@0.23.1626.1027" timestamp="1604151210582" />
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1629.1027@0.23.1629.1027" timestamp="1602213130157" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
-    <state x="2413" y="126" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1604820451495" />
+    <state x="2413" y="126" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1604823947439" />
     <state x="2414" y="126" key="CommitChangelistDialog2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978055088" />
     <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146209193" />
-    <state x="2696" y="106" key="SettingsEditor" timestamp="1604233675093">
+    <state x="2696" y="106" key="SettingsEditor" timestamp="1605267225637">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2163" y="112" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602829914415" />
@@ -425,24 +442,25 @@
     <state x="2163" y="127" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1003@1680.23.1920.1003" timestamp="1602073592112" />
     <state x="423" y="124" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1602067964092" />
     <state x="2403" y="112" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1603975406348" />
-    <state x="2696" y="106" key="SettingsEditor/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1604233675093" />
-    <state x="2409" y="290" key="Vcs.Push.Dialog.v2" timestamp="1604820453006">
+    <state x="2696" y="106" key="SettingsEditor/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1605267225637" />
+    <state x="2409" y="290" key="Vcs.Push.Dialog.v2" timestamp="1604823948618">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2183" y="273" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602819359853" />
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
     <state x="426" y="282" key="Vcs.Push.Dialog.v2/0.23.1626.1027@0.23.1626.1027" timestamp="1604151212891" />
     <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1602069662122" />
-    <state x="2409" y="290" key="Vcs.Push.Dialog.v2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1604820453006" />
+    <state x="2409" y="290" key="Vcs.Push.Dialog.v2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1604823948618" />
     <state x="2410" y="290" key="Vcs.Push.Dialog.v2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978057512" />
     <state x="2423" y="277" key="Vcs.Push.Dialog.v2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146213154" />
     <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601739205057">
       <screen x="0" y="23" width="1680" height="973" />
     </state>
     <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1680.973@0.23.1680.973" timestamp="1601739205057" />
-    <state x="478" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1604066840003">
-      <screen x="0" y="23" width="1626" height="1027" />
+    <state x="2469" y="257" width="769" height="696" key="search.everywhere.popup" timestamp="1605267261537">
+      <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="478" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1626.1027@0.23.1626.1027" timestamp="1604066840003" />
+    <state x="2469" y="257" width="769" height="696" key="search.everywhere.popup/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1605267261537" />
   </component>
 </project>
