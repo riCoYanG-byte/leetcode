@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bfs/maxArea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/maze.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +120,7 @@
       <workItem from="1605621953686" duration="24000" />
       <workItem from="1605621985162" duration="10000" />
       <workItem from="1605622050011" duration="4000" />
-      <workItem from="1605622170804" duration="883000" />
+      <workItem from="1605622170804" duration="1188000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -399,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605448147172</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="bfs">
+      <created>1605624168649</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1605624168649</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,7 +421,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readme.md" />
     <MESSAGE value="233" />
     <MESSAGE value="connected component" />
     <MESSAGE value="No739.py" />
@@ -443,7 +445,8 @@
     <MESSAGE value="easy" />
     <MESSAGE value="easy problem" />
     <MESSAGE value="duplicate zeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="duplicate zeros" />
+    <MESSAGE value="bfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="bfs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604066923612">
