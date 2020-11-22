@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="" />
+    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backtrack/generalized-abb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,19 +50,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/array" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dynamic" />
-      <recent name="$PROJECT_DIR$/array" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/array" />
       <recent name="$PROJECT_DIR$/Hashmap" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/linkList" />
       <recent name="$PROJECT_DIR$/BinarySearch" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bfs" />
+      <recent name="$PROJECT_DIR$/dynamic" />
+      <recent name="$PROJECT_DIR$/array" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -120,7 +124,10 @@
       <workItem from="1605621953686" duration="24000" />
       <workItem from="1605621985162" duration="10000" />
       <workItem from="1605622050011" duration="4000" />
-      <workItem from="1605622170804" duration="1188000" />
+      <workItem from="1605622170804" duration="1348000" />
+      <workItem from="1606029657700" duration="42000" />
+      <workItem from="1606051600354" duration="254000" />
+      <workItem from="1606054733590" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -402,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605624168649</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="bfs">
+      <created>1605624354580</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1605624354580</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,8 +467,8 @@
       <screen x="0" y="23" width="1626" height="1027" />
     </state>
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1626.1027@0.23.1626.1027" timestamp="1604066923612" />
-    <state x="2427" y="61" key="CommitChangelistDialog2" timestamp="1605448147061">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="2413" y="61" key="CommitChangelistDialog2" timestamp="1605624354480">
+      <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2187" y="105" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602817754434" />
     <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
@@ -462,10 +476,10 @@
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1629.1027@0.23.1629.1027" timestamp="1602213130157" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
     <state x="2427" y="61" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1605448147061" />
-    <state x="2413" y="126" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1604823947439" />
+    <state x="2413" y="61" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1605624354480" />
     <state x="2414" y="126" key="CommitChangelistDialog2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978055088" />
     <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146209193" />
-    <state x="2696" y="106" key="SettingsEditor" timestamp="1605267225637">
+    <state x="2696" y="106" key="SettingsEditor" timestamp="1606051652959">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2163" y="112" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602829914415" />
@@ -474,16 +488,16 @@
     <state x="2163" y="127" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1003@1680.23.1920.1003" timestamp="1602073592112" />
     <state x="423" y="124" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1602067964092" />
     <state x="2403" y="112" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1603975406348" />
-    <state x="2696" y="106" key="SettingsEditor/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1605267225637" />
-    <state x="2423" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605445334643">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="2696" y="106" key="SettingsEditor/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1606051652959" />
+    <state x="2409" y="290" key="Vcs.Push.Dialog.v2" timestamp="1606029676324">
+      <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2183" y="273" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602819359853" />
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
     <state x="426" y="282" key="Vcs.Push.Dialog.v2/0.23.1626.1027@0.23.1626.1027" timestamp="1604151212891" />
     <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1602069662122" />
     <state x="2423" y="273" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1605445334643" />
-    <state x="2409" y="290" key="Vcs.Push.Dialog.v2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1604823948618" />
+    <state x="2409" y="290" key="Vcs.Push.Dialog.v2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1606029676324" />
     <state x="2410" y="290" key="Vcs.Push.Dialog.v2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978057512" />
     <state x="2423" y="277" key="Vcs.Push.Dialog.v2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146213154" />
     <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601739205057">
