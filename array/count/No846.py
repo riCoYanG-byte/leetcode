@@ -13,6 +13,7 @@ def isNStraightHand(hand, W):
     count = collections.Counter(hand)
     while count:
         m = min(count)
+        #从底下往上罗列
         for k in range(m, m + W):
             v = count[k]
             if not v: return False

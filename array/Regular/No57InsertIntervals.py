@@ -7,6 +7,8 @@
 
 # the same as the previous question
 
+# 添加进去在做merge solution
+
 class Solution:
     def insert(self, intervals: 'List[Interval]', newInterval: 'Interval') -> 'List[Interval]':
         # init data

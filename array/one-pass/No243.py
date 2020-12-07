@@ -9,6 +9,7 @@
 # Input: word1 = "makes", word2 = "coding"
 # Output: 1
 
+# one passsolution :
 class Solution(object):
     def shortestDistance(self, words, word1, word2):
         """

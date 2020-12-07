@@ -1,3 +1,6 @@
+# find the peak list
+# and count each length for the peak list
+
 def longestPeak(array):
     # Write your code here.
     # find a peak

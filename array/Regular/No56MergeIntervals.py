@@ -14,5 +14,6 @@ class Solution(object):
             if  not merge or  inter[0] > merge[-1][1]:
                 merge.append(inter)
             else:
+                # 做merge操作
                 merge[-1][1] =  max(inter[1],merge[-1][1])
         return merge

@@ -18,6 +18,9 @@
 #
 
 # complexity:O(n)
+
+# 记录subarray的位置
+
 class Solution(object):
     def subarraySum(self, nums, k):
         """

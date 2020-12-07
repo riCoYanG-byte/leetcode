@@ -17,5 +17,7 @@ class Solution(object):
         idx = 0
         while missing(idx) < k:
             idx += 1
+
+        # 计算据他加的值
         return k - missing(idx - 1) + nums[idx - 1]
 

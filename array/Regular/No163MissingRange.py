@@ -13,6 +13,7 @@
 def findMissingRanges(self, A, lower, upper):
     result = []
     A.append(upper + 1)
+    # 把开头计算上，分两种情况去讨论1.隔一个 2.隔一个有序序列
     pre = lower - 1
     for i in A:
         if (i == pre + 2):

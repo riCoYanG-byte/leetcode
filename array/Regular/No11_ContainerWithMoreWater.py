@@ -1,3 +1,5 @@
+# 决定木桶大小的是最短的板
+
 class Solution(object):
 
     # 双指针更简单一些

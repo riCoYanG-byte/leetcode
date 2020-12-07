@@ -1,4 +1,10 @@
+import collections
+
+
 class Solution:
+    def __init__(self):
+        self.res = []
+
     def generatePalindromes(self, s: str) -> List[str]:
         ## RC ##
         ## APPROACH : BACKTRACKING ##
@@ -22,7 +28,7 @@ class Solution:
             else:
                 chars += ch * (count[ch] // 2)
 
-        if (len(p) > 1): return []
+        if len(p) > 1: return []
 
         def dfs(curr, s):
             if curr in visited:
@@ -37,6 +43,5 @@ class Solution:
                 curr = curr[:-1]
 
         visited = set()
-        self.res = []
         dfs("", chars)
         return self.res

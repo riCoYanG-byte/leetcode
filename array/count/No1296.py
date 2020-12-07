@@ -5,6 +5,9 @@ import collections
 # of k consecutive numbers Return True if its possible otherwise return False.
 
 # 当前的最小的肯定配后面的都减掉
+
+# 有点像 playing card
+
 def isPossibleDivide(nums, k):
     """
     :type nums: List[int]

@@ -1,3 +1,5 @@
+# 不断比对结果进行交换就完事了
+
 def moveElementToEnd(array, toMove):
     # Write your code here.
     start = 0

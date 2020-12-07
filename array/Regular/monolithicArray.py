@@ -1,3 +1,5 @@
+# judge the trend is okay
+
 def isMonotonic(array):
     # Write your code here.
     if len(array) < 2:
