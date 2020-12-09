@@ -19,33 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/strings/nextPermutation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No1060.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/count/No1060.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No11_ContainerWithMoreWater.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No11_ContainerWithMoreWater.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No1296.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/count/No1296.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No1438.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/SlidingWindow/No1438.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No163MissingRange.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No163MissingRange.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No243.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/one-pass/No243.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No252 meeting rooms.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No252 meeting rooms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No253MeetingRooms.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No253MeetingRooms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No380 insert and delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/design/No380 insert and delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No39 cmbinationSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/backtrack/No39 cmbinationSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No560.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No560.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No56MergeIntervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No56MergeIntervals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No57InsertIntervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No57InsertIntervals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No767.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No767.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No846.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/count/No846.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/arrayPractice/No.1089.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No.1089.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/arrayPractice/No.485.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No.485.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/arrayPractice/No.977.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/No.977.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/longestPeak.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/longestPeak.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/monolithicArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/monolithicArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/moveToEnd.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/moveToEnd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backtrack/generalized-abb.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/backtrack/generalized-abb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/267. Palindrome Permutation II.py" beforeDir="false" afterPath="$PROJECT_DIR$/strings/267. Palindrome Permutation II.py" afterDir="false" />
-    </list>
+    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +168,7 @@
       <workItem from="1606657006909" duration="1000" />
       <workItem from="1606697939369" duration="846000" />
       <workItem from="1607145804989" duration="2000" />
-      <workItem from="1607330210759" duration="7712000" />
+      <workItem from="1607330210759" duration="7751000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -504,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606698003101</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="review1">
+      <created>1607342561078</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1607342561078</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +505,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="No496.py" />
     <MESSAGE value="Insert into val" />
     <MESSAGE value="partitionList.py" />
     <MESSAGE value="del note for forest" />
@@ -549,7 +529,8 @@
     <MESSAGE value="backtrack" />
     <MESSAGE value="bfs and snack" />
     <MESSAGE value="Palindrome permutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palindrome permutation" />
+    <MESSAGE value="review1" />
+    <option name="LAST_COMMIT_MESSAGE" value="review1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="997" y="197" key="#Docker" timestamp="1606056151461">
@@ -560,7 +541,7 @@
       <screen x="0" y="23" width="1626" height="1027" />
     </state>
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1626.1027@0.23.1626.1027" timestamp="1604066923612" />
-    <state x="2413" y="61" key="CommitChangelistDialog2" timestamp="1606698002949">
+    <state x="2413" y="61" key="CommitChangelistDialog2" timestamp="1607342560867">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2187" y="105" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602817754434" />
@@ -569,7 +550,7 @@
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1629.1027@0.23.1629.1027" timestamp="1602213130157" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
     <state x="2427" y="61" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1606478854294" />
-    <state x="2413" y="61" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1606698002949" />
+    <state x="2413" y="61" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607342560867" />
     <state x="2414" y="126" key="CommitChangelistDialog2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978055088" />
     <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146209193" />
     <state x="2850" y="329" key="FileChooserDialogImpl" timestamp="1606461422293">
@@ -577,6 +558,22 @@
     </state>
     <state x="930" y="329" key="FileChooserDialogImpl/0.23.1866.1057@0.23.1866.1057" timestamp="1606056023006" />
     <state x="2850" y="329" key="FileChooserDialogImpl/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1606461422293" />
+    <state width="1640" height="275" key="GridCell.Tab.0.bottom" timestamp="1607342591156">
+      <screen x="1920" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1640" height="275" key="GridCell.Tab.0.bottom/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607342591156" />
+    <state width="1640" height="275" key="GridCell.Tab.0.center" timestamp="1607342591155">
+      <screen x="1920" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1640" height="275" key="GridCell.Tab.0.center/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607342591155" />
+    <state width="1640" height="275" key="GridCell.Tab.0.left" timestamp="1607342591154">
+      <screen x="1920" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1640" height="275" key="GridCell.Tab.0.left/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607342591154" />
+    <state width="1640" height="275" key="GridCell.Tab.0.right" timestamp="1607342591156">
+      <screen x="1920" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1640" height="275" key="GridCell.Tab.0.right/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607342591156" />
     <state x="2696" y="106" key="SettingsEditor" timestamp="1607336851306">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
@@ -588,7 +585,7 @@
     <state x="776" y="106" key="SettingsEditor/0.23.1866.1057@0.23.1866.1057" timestamp="1606056215069" />
     <state x="2403" y="112" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1606461877100" />
     <state x="2696" y="106" key="SettingsEditor/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607336851306" />
-    <state x="2409" y="290" key="Vcs.Push.Dialog.v2" timestamp="1606698049291">
+    <state x="2409" y="290" key="Vcs.Push.Dialog.v2" timestamp="1607342582013">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2183" y="273" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602819359853" />
@@ -596,7 +593,7 @@
     <state x="426" y="282" key="Vcs.Push.Dialog.v2/0.23.1626.1027@0.23.1626.1027" timestamp="1604151212891" />
     <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1602069662122" />
     <state x="2423" y="273" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1606478858636" />
-    <state x="2409" y="290" key="Vcs.Push.Dialog.v2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1606698049291" />
+    <state x="2409" y="290" key="Vcs.Push.Dialog.v2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607342582013" />
     <state x="2410" y="290" key="Vcs.Push.Dialog.v2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978057512" />
     <state x="2423" y="277" key="Vcs.Push.Dialog.v2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146213154" />
     <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601739205057">
