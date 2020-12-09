@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/sum/3 sum.py" afterDir="false" />
-    </list>
+    <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +169,7 @@
       <workItem from="1606697939369" duration="846000" />
       <workItem from="1607145804989" duration="2000" />
       <workItem from="1607330210759" duration="7751000" />
-      <workItem from="1607489309231" duration="284000" />
+      <workItem from="1607489309231" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -495,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607489407326</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="three sum">
+      <created>1607489655289</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1607489655289</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,7 +560,7 @@
       <screen x="0" y="23" width="1626" height="1027" />
     </state>
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1626.1027@0.23.1626.1027" timestamp="1604066923612" />
-    <state x="2413" y="61" key="CommitChangelistDialog2" timestamp="1607489407138">
+    <state x="2413" y="61" key="CommitChangelistDialog2" timestamp="1607489655163">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2187" y="105" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602817754434" />
@@ -564,7 +569,7 @@
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1629.1027@0.23.1629.1027" timestamp="1602213130157" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
     <state x="2427" y="61" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1606478854294" />
-    <state x="2413" y="61" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607489407138" />
+    <state x="2413" y="61" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607489655163" />
     <state x="2414" y="126" key="CommitChangelistDialog2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978055088" />
     <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146209193" />
     <state x="2850" y="329" key="FileChooserDialogImpl" timestamp="1606461422293">
