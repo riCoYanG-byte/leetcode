@@ -170,6 +170,7 @@
       <workItem from="1607145804989" duration="2000" />
       <workItem from="1607330210759" duration="7751000" />
       <workItem from="1607489309231" duration="1032000" />
+      <workItem from="1607504830832" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="3 questions">
       <created>1601273126622</created>
@@ -500,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607489655289</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="4sum">
+      <created>1607504923464</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1607504923464</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +528,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="partitionList.py" />
     <MESSAGE value="del note for forest" />
     <MESSAGE value="count complete nodes" />
     <MESSAGE value="longest consecutive way" />
@@ -545,7 +552,8 @@
     <MESSAGE value="Palindrome permutation" />
     <MESSAGE value="review1" />
     <MESSAGE value="three sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="three sum" />
+    <MESSAGE value="4sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="4sum" />
   </component>
   <component name="WindowStateProjectService">
     <state x="997" y="197" key="#Docker" timestamp="1606056151461">
@@ -560,7 +568,7 @@
       <screen x="0" y="23" width="1626" height="1027" />
     </state>
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1626.1027@0.23.1626.1027" timestamp="1604066923612" />
-    <state x="2413" y="61" key="CommitChangelistDialog2" timestamp="1607489655163">
+    <state x="2413" y="61" key="CommitChangelistDialog2" timestamp="1607504923336">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2187" y="105" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602817754434" />
@@ -569,7 +577,7 @@
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1629.1027@0.23.1629.1027" timestamp="1602213130157" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
     <state x="2427" y="61" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1606478854294" />
-    <state x="2413" y="61" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607489655163" />
+    <state x="2413" y="61" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607504923336" />
     <state x="2414" y="126" key="CommitChangelistDialog2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978055088" />
     <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146209193" />
     <state x="2850" y="329" key="FileChooserDialogImpl" timestamp="1606461422293">
@@ -604,7 +612,7 @@
     <state x="776" y="106" key="SettingsEditor/0.23.1866.1057@0.23.1866.1057" timestamp="1606056215069" />
     <state x="2403" y="112" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1606461877100" />
     <state x="2696" y="106" key="SettingsEditor/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607336851306" />
-    <state x="2409" y="290" key="Vcs.Push.Dialog.v2" timestamp="1607342582013">
+    <state x="2409" y="290" key="Vcs.Push.Dialog.v2" timestamp="1607504924856">
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2183" y="273" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602819359853" />
@@ -612,7 +620,7 @@
     <state x="426" y="282" key="Vcs.Push.Dialog.v2/0.23.1626.1027@0.23.1626.1027" timestamp="1604151212891" />
     <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1602069662122" />
     <state x="2423" y="273" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1606478858636" />
-    <state x="2409" y="290" key="Vcs.Push.Dialog.v2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607342582013" />
+    <state x="2409" y="290" key="Vcs.Push.Dialog.v2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607504924856" />
     <state x="2410" y="290" key="Vcs.Push.Dialog.v2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978057512" />
     <state x="2423" y="277" key="Vcs.Push.Dialog.v2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146213154" />
     <state x="643" y="367" width="614" height="269" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601739205057">
