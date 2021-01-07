@@ -16,3 +16,7 @@ _20 YEARS OLD_
 _Tencent internship_
 
 _willing go the american to follow the master degree and welcome to being friends with me_
+
+## _this project is not updated anymore. please find the code in the following link:_
+
+_`https://leetcode.com/riCoYanG-byte/`_

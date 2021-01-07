@@ -20,20 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="390ae36f-c527-4c72-980f-c16f13bdcd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Employee Importance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listWei.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bisect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/MidOfNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkList/MidOfNode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No1146.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/design/No1146.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No1376.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary tree/No1376.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/No1423.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/backtrack/No1423.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/TwoNumSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/sum/TwoNumSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/smallerDif.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/smallerDif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/spiralTraverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/spiralTraverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/subSequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/Regular/subSequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/trippleNumSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/sum/trippleNumSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamic/levinsheinDis.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic/levinsheinDis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +74,29 @@
       <recent name="$PROJECT_DIR$/BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.levinsheinDis">
+  <component name="RunManager" selected="Python.bisect">
+    <configuration name="bisect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bisect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="levinsheinDis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bisect" />
         <item itemvalue="Python.levinsheinDis" />
         <item itemvalue="Python.moveToEnd" />
       </list>
@@ -217,14 +230,10 @@
       <workItem from="1608022400250" duration="1326000" />
       <workItem from="1608036609882" duration="962000" />
       <workItem from="1608812188949" duration="1528000" />
-      <workItem from="1608887022361" duration="1735000" />
-    </task>
-    <task id="LOCAL-00004" summary="readme.md">
-      <created>1601352202006</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1601352202006</updated>
+      <workItem from="1608887022361" duration="2701000" />
+      <workItem from="1609039443966" duration="98000" />
+      <workItem from="1609917697811" duration="862000" />
+      <workItem from="1610019756714" duration="391000" />
     </task>
     <task id="LOCAL-00005" summary="loading">
       <created>1601388121199</created>
@@ -562,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607672585416</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="get it">
+      <created>1608890318621</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1608890318621</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +598,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="random choice" />
     <MESSAGE value="readNcharacter.py" />
     <MESSAGE value="leftmost-column-with-at-least-a-one.py" />
     <MESSAGE value="Logger_Rate_limit_system.py" />
@@ -607,7 +622,8 @@
     <MESSAGE value="No651.py" />
     <MESSAGE value="sort color" />
     <MESSAGE value="middle of Node" />
-    <option name="LAST_COMMIT_MESSAGE" value="middle of Node" />
+    <MESSAGE value="get it" />
+    <option name="LAST_COMMIT_MESSAGE" value="get it" />
   </component>
   <component name="WindowStateProjectService">
     <state x="997" y="197" key="#Docker" timestamp="1606056151461">
@@ -618,19 +634,19 @@
       <screen x="1920" y="23" width="1866" height="1057" />
     </state>
     <state x="2501" y="367" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607672555760" />
-    <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1604066923612">
-      <screen x="0" y="23" width="1626" height="1027" />
+    <state x="518" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609918190026">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="518" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1609918190026" />
     <state x="501" y="283" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1626.1027@0.23.1626.1027" timestamp="1604066923612" />
-    <state x="2413" y="61" key="CommitChangelistDialog2" timestamp="1607672585306">
-      <screen x="1920" y="23" width="1866" height="1057" />
+    <state x="2427" y="56" key="CommitChangelistDialog2" timestamp="1608890318425">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2187" y="105" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602817754434" />
-    <state x="444" y="103" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1601352201895" />
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1626.1027@0.23.1626.1027" timestamp="1604151210582" />
     <state x="430" y="123" key="CommitChangelistDialog2/0.23.1629.1027@0.23.1629.1027" timestamp="1602213130157" />
     <state x="444" y="118" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1602069654427" />
-    <state x="2427" y="61" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1606478854294" />
+    <state x="2427" y="56" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1608890318425" />
     <state x="2413" y="61" key="CommitChangelistDialog2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607672585306" />
     <state x="2414" y="126" key="CommitChangelistDialog2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978055088" />
     <state x="2427" y="121" key="CommitChangelistDialog2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146209193" />
@@ -675,25 +691,24 @@
       <screen x="1920" y="23" width="1869" height="1057" />
     </state>
     <state width="1824" height="523" key="GridCell.Tab.1.right/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1608037608945" />
-    <state x="2403" y="112" key="SettingsEditor" timestamp="1608887068038">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="423" y="109" key="SettingsEditor" timestamp="1610019771572">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="2163" y="112" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602829914415" />
-    <state x="300" y="280" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1601365941014" />
+    <state x="423" y="109" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1610019771572" />
     <state x="409" y="130" key="SettingsEditor/0.23.1626.1027@0.23.1626.1027" timestamp="1604067332012" />
     <state x="2163" y="127" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1003@1680.23.1920.1003" timestamp="1602073592112" />
     <state x="423" y="124" key="SettingsEditor/0.23.1680.973@0.23.1680.973" timestamp="1602067964092" />
     <state x="776" y="106" key="SettingsEditor/0.23.1866.1057@0.23.1866.1057" timestamp="1606056215069" />
     <state x="2403" y="112" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1608887068038" />
     <state x="2696" y="106" key="SettingsEditor/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1608036725614" />
-    <state x="2409" y="290" key="Vcs.Push.Dialog.v2" timestamp="1607672586861">
-      <screen x="1920" y="23" width="1866" height="1057" />
+    <state x="2423" y="273" key="Vcs.Push.Dialog.v2" timestamp="1608890320081">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2183" y="273" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1602819359853" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1601359814870" />
     <state x="426" y="282" key="Vcs.Push.Dialog.v2/0.23.1626.1027@0.23.1626.1027" timestamp="1604151212891" />
     <state x="440" y="269" key="Vcs.Push.Dialog.v2/0.23.1680.973@0.23.1680.973" timestamp="1602069662122" />
-    <state x="2423" y="273" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1606478858636" />
+    <state x="2423" y="273" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1200@1920.0.1920.1080" timestamp="1608890320081" />
     <state x="2409" y="290" key="Vcs.Push.Dialog.v2/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607672586861" />
     <state x="2410" y="290" key="Vcs.Push.Dialog.v2/1920.23.1869.1057/0.23.1920.1177@1920.23.1869.1057" timestamp="1603978057512" />
     <state x="2423" y="277" key="Vcs.Push.Dialog.v2/1920.23.1920.1003/0.23.1920.1177@1920.23.1920.1003" timestamp="1602146213154" />
@@ -708,6 +723,7 @@
     <state x="2469" y="257" width="769" height="696" key="search.everywhere.popup/1920.23.1866.1057/0.23.1920.1177@1920.23.1866.1057" timestamp="1607336478689" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$bisect.coverage" NAME="bisect Coverage Results" MODIFIED="1610020050238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$levinsheinDis.coverage" NAME="levinsheinDis Coverage Results" MODIFIED="1608037478490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic" />
     <SUITE FILE_PATH="coverage/leetcode$moveToEnd.coverage" NAME="moveToEnd Coverage Results" MODIFIED="1608037439386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array" />
   </component>
